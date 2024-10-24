@@ -23,4 +23,4 @@ Camera for watch
 
 Part 5) 
 
-Mobile Applicaiton 
+Mobile Application 
