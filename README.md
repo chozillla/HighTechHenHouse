@@ -15,3 +15,12 @@ Water sensor
 Part 3) 
 
 Solar Power
+
+
+Part 4) 
+
+Camera for watch
+
+Part 5) 
+
+Mobile Applicaiton 
